@@ -11,3 +11,15 @@ This repository contains the code implementation of our proposed model and all t
 - datasets: Real wrold and synthetic datasets used for this paper are available in this directory. The synthetic dataset generation codes are also available here.
 - proposed_model: The proposed model is available here. The notebooks in this directory contain experimental results for different datasets using the proposed mode.
 - ablation_study: For the ablation study, we have created a variant of the proposed model. The implementation of this variant and results for different datasets are available in this directory.
+
+## Citation
+If you use this code for your research, please cite our [paper]():
+
+```
+@article{tscausalnn2025,
+  title={TS-CausalNN: Learning Temporal Causal Relations from Non-linear Non-stationary Time Series Data},
+  author={Faruque, Omar and Ali, Sahara and Zheng, Xue and Wang, Jianwu},
+  journal={IEEE International Conference on Data Mining (ICDM) Workshop of Artificial Intelligence for Time Series Analysis (AI4TS)},
+  year={2025},
+  publisher={IEEE}
+}
